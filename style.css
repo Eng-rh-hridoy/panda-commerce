@@ -1,0 +1,28 @@
+.top-slider-bg{
+    background-color: #FEEAE9;
+}
+.slider-height{
+    margin-top: 60px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.banner-p{
+    width: 488px;
+    color: #707070;
+}
+.banner-h{
+    font-size: 33px;
+}
+.price{
+    font-size: 33px;
+    color: #FF136F;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    cursor: pointer;
+}
