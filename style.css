@@ -1,9 +1,13 @@
+.container{
+    margin-bottom: 60px;
+}
+
 .top-slider-bg{
     background-color: #FEEAE9;
 }
-.slider-height{
+/* .slider-height{
     margin-top: 60px;
-}
+} */
 .carousel-item{
     padding: 20px 40px;
 }
@@ -25,4 +29,23 @@
     padding: 9px 25px;
     border: none;
     cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to right, rgb(245, 203, 64) 0%, rgb(239 157 8) 100%);
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #e680e2 0%, #ef30e7 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, #4181ea 0%, #0d62ef 100%);
+}
+.category h1{
+    color: white;
+}
+.category img{
+    width: 100px;
 }
