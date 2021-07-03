@@ -1,9 +1,10 @@
 .container{
-    margin-bottom: 60px;
+    margin-bottom: 90px;
 }
 
 .top-slider-bg{
     background-color: #FEEAE9;
+    border-radius: 10px;
 }
 /* .slider-height{
     margin-top: 60px;
@@ -48,4 +49,11 @@
 }
 .category img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+#subscribe{
+    height: 400px;
 }
